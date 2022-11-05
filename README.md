@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=danielmalede&label=Profile%20views&color=26a4f2&style=plastic" alt="danielmalede" /> </p>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielmalede&theme=radical" alt="danielmalede" /></a> </p>
+<a><img src="https://github-profile-trophy.vercel.app/?username=danielmalede&theme=radical&hide_border=true" alt="danielmalede" /></a> </p>
 
 - 📄 Know about my experiences [https://onedrive.live.com/view.aspx?resid=C1F33A82A1F950A6%213754&id=documents](https://onedrive.live.com/view.aspx?resid=C1F33A82A1F950A6%213754&id=documents)
 
