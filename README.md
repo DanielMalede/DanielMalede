@@ -6,8 +6,6 @@
 - 📄 Know about my experiences [https://onedrive.live.com/view.aspx?resid=C1F33A82A1F950A6%213754&id=documents](https://onedrive.live.com/view.aspx?resid=C1F33A82A1F950A6%213754&id=documents)
 
 - 📫 How to reach me **DanielMalede@gmail.com**
-- <h4 align="left">Linkedn page :https://www.linkedin.com/in/lior-dawit-07464b236](https://www.linkedin.com/in/daniel-malede-61152272/</h4>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
