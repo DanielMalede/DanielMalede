@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Daniel Malede</h1>
-<h3 align="center">A passionate Full Stack Developer from Israel</h3>
+<h3 align="center">⚡A passionate & motivated Full Stack Developer⚡</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=danielmalede&label=Profile%20views&color=26a4f2&style=plastic" alt="danielmalede" /> </p>
 
 - 📄 Know about my experiences [https://onedrive.live.com/view.aspx?resid=C1F33A82A1F950A6%213754&id=documents](https://onedrive.live.com/view.aspx?resid=C1F33A82A1F950A6%213754&id=documents)
+- 🌱 I’m currently learning Node.js
 
 - 📫 How to reach me **DanielMalede@gmail.com**
 
