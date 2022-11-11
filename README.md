@@ -39,7 +39,7 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 </span>
  
-<h3 align="center">It's all about statistics</h3>
+<h2 align="center">It's all about statistics</h2>
  
 <div align="center">
 <span align="center">
