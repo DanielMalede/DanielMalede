@@ -12,7 +12,7 @@
 <p align="center">
 <a href="https://twitter.com/danielmalede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danielmalede" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/daniel malede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel malede" height="30" width="40" /></a>
-<a href="https://fb.com/daniel malede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniel malede" height="30" width="40" /></a>
+<a href="[https://fb.com/daniel malede](https://www.facebook.com/danielmalede)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniel malede" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
