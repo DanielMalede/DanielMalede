@@ -40,6 +40,8 @@
 <a href="https://github.com/DanielMalede/github-readme-stats"><img alt="Assafvanunu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMalede&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=white&text_color=black" /></a> 
 </span>
  
+<h3 align="center">It's all about statistics</h3>
+ 
 <div align="center">
 <span align="center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=danielmalede&hide_border=true&stroke=0000&bg_color=white&text_color=black" alt="danielmalede" /></span>
