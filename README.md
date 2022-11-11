@@ -36,6 +36,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 </p>
+<div align="center">
 <span align="center">
  <a href="https://github.com/DanielMalede/github-readme-stats"><img alt="Assafvanunu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMalede&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=white&text_color=black" /></a> 
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=danielmalede&hide_border=true&stroke=0000&bg_color=white&text_color=black" alt="danielmalede" /></span>
@@ -44,3 +45,4 @@
 <a href="https://github.com/DanielMalede/github-readme-stats"><img alt="Daniel Malede Github Stats" src="https://github-readme-stats.vercel.app/api?username=DanielMalede&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=white&text_color=white" /></a>
 </span>
 <a href="https://github.com/DanieMalede/github-readme-activity-graph"><img alt="Daniel Malede Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DanielMalede&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&bg_color=white&text_color=black" /></a>
+</div>
