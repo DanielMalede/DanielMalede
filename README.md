@@ -50,5 +50,6 @@
 <br/>
 <a href="https://github.com/DanielMalede/github-readme-stats"><img alt="Daniel Malede Github Stats" src="https://github-readme-stats.vercel.app/api?username=DanielMalede&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=white&text_color=white" /></a>
 </span>
+<br/>
 <a href="https://github.com/DanieMalede/github-readme-activity-graph"><img alt="Daniel Malede Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DanielMalede&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&bg_color=white&text_color=black" /></a>
 </div>
