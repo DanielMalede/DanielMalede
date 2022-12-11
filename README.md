@@ -45,7 +45,7 @@
 <div align="center">
 <span align="center">
  <a href="https://github.com/DanielMalede/github-readme-stats"><img alt="Assafvanunu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMalede&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=white&text_color=black" /></a> 
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=danielmalede&hide_border=true&stroke=0000&bg_color=white&text_color=black" alt="danielmalede" /></span>
+</span>
 <span align="center" class='d-flex p-0'>
 <br/>
 <a href="https://github.com/DanielMalede/github-readme-stats"><img alt="Daniel Malede Github Stats" src="https://github-readme-stats.vercel.app/api?username=DanielMalede&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=white&text_color=white" /></a>
