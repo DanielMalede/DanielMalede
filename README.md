@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=danielmalede&label=Profile%20views&color=26a4f2&style=plastic" alt="danielmalede" /> </p>
 
-- 📄 Know about my experiences [https://onedrive.live.com/view.aspx?resid=C1F33A82A1F950A6%213754&id=documents](https://onedrive.live.com/view.aspx?resid=C1F33A82A1F950A6%213754&id=documents)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1L3AAfRt3lAkFrQjJyhPIc5gMt8UCrsPL/view"><b>View</b></a>
 
 - 📫 How to reach me **DanielMalede@gmail.com**
 
