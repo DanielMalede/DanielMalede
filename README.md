@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1sVblHh3fEPqy_4tEjvmEAFbebde7g3qu/view?usp=drive_link" target="_blank"><b>View</b></a>
 
-- 📫 How to reach me **DanielMalede@gmail.com**
+//- 📫 How to reach me **DanielMalede@gmail.com**//
 
 - 💻 Looking for a job as a software developer.
 
