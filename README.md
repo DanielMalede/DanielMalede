@@ -3,9 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=danielmalede&label=Profile%20views&color=26a4f2&style=plastic" alt="danielmalede" /> </p>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1sVblHh3fEPqy_4tEjvmEAFbebde7g3qu/view?usp=drive_link" target="_blank"><b>View</b></a>
 
-//- 📫 How to reach me **DanielMalede@gmail.com**//
+- 📫 How to reach me **DanielMalede@gmail.com**
 
 - 💻 Looking for a job as a software developer.
 
